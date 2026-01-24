@@ -11,3 +11,6 @@ DOMAIN,inputtools.google.com
 
 # > Google Translate TTS (语音朗读)
 DOMAIN,speechs3proto2-pa.googleapis.com
+
+# > Google Translate 相机识别
+DOMAIN,lens-pa.googleapis.com
