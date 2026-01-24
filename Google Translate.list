@@ -8,3 +8,4 @@ DOMAIN,translate-pa.googleapis.com
 # > Google Translate TTS (语音朗读)
 DOMAIN-KEYWORD,translate.google.com.br
 DOMAIN-KEYWORD,translate.google.com.hk
+DOMAIN,speechs3proto2-pa.googleapis.com
