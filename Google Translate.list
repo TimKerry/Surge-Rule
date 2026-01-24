@@ -1,6 +1,6 @@
 # > Google Translate
-DOMAIN-SUFFIX,translate.google.com
-DOMAIN-SUFFIX,translate.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,notifications-pa.googleapis.com
 DOMAIN,translate.google.cn
 DOMAIN,translate.gstatic.com
 DOMAIN,translate-pa.googleapis.com
