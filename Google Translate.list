@@ -5,6 +5,7 @@ DOMAIN,translate.google.cn
 DOMAIN,translate.gstatic.com
 DOMAIN,translate-pa.googleapis.com
 DOMAIN,oauthaccountmanager.googleapis.com
+DOMAIN,oauth2.googleapis.com
 DOMAIN,dl.google.com
 DOMAIN,inputtools.google.com
 
