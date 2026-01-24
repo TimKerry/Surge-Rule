@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,translate.google.com
 DOMAIN-SUFFIX,translate.googleapis.com
 DOMAIN,translate.google.cn
 DOMAIN,translate.gstatic.com
+DOMAIN,translate-pa.googleapis.com
 
 # > Google Translate TTS (语音朗读)
 DOMAIN-KEYWORD,translate.google.com.br
